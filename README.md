@@ -1,78 +1,121 @@
-<h1 align="center">Hi 👋, I'm Sameer Khatri</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+# Hi 👋, I'm Sameer Khatri
+
+### A passionate Full Stack Developer from India
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sameerdev512&label=Profile%20views&color=0e75b6&style=flat" alt="sameerdev512" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sameerdev512" alt="sameerdev512" />
-  </a>
+---
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on **YatraSetu** – Travel planning and route management platform
+- 🌱 I'm currently learning **Spring Boot, Data Structures & Algorithms, and Java**
+- 👯 I'm looking to collaborate on **GoLocal** – Local services marketplace
+- 💬 Ask me about **ReactJs, JavaScript, Web Development**
+- 📫 How to reach me: **sameerkhatridev512@gmail.com**
+- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1Qb33A6Sv1mQjUoiVPOTqbpHvysVzfhEB/view)
+- ⚡ Fun fact: I love solving complex problems and building efficient solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### **Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 📂 Featured Projects
+
+### **🎒 [YatraSetu](https://github.com/sameerdev512/YatraSetu)**
+> **Travel planning platform** with route optimization, booking system, and real-time tracking
+> - *Tech: React, Spring Boot, MySQL, Map APIs*
+> - *Features: Route planning, Booking system, User reviews*
+
+### **🏪 [GoLocal](https://github.com/sameerdev512/GoLocal)**
+> **Local services marketplace** connecting users with verified service providers
+> - *Tech: React, Node.js, MongoDB, Express*
+> - *Features: Service booking, Reviews, Provider verification*
+
+### **🔍 [Lost and Found](https://github.com/sameerdev512/LostAndFound)**
+> **Item recovery platform** with image recognition for lost & found items
+> - *Tech: React Native, Firebase, TensorFlow Lite*
+> - *Features: Image matching, Location tracking, User alerts*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sameerdev512&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerdev512&theme=radical&hide_border=true" />
 </p>
 
-- 🔭 I’m currently working on **[YatraSetu](https://github.com/your-yatrasetu-link)**  
-- 🌱 I’m currently learning **Spring Boot, Data Structures & Algorithms, and Java**  
-- 👯 I’m looking to collaborate on **[GoLocal](https://github.com/your-golocal-link)**  
-- 💬 Ask me about **ReactJs**  
-- 📫 How to reach me **[sameerkhatridev512@gmail.com](mailto:sameerkhatridev512@gmail.com)**  
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Qb33A6Sv1mQjUoiVPOTqbpHvysVzfhEB/view?usp=drive_link)**  
-- 📝 Read my blog posts **[Blog](https://your-blog-link.com)**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerdev512&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=sameerdev512&theme=radical&no-frame=true&row=2&column=3" />
+</p>
 
 ---
 
-<h3 align="left">Projects:</h3>
-- 💻 **[GoLocal](https://github.com/your-golocal-link)** – My full stack project for local services  
-- 🕵️ **[Lost and Found](https://github.com/your-lostandfound-link)** – App to report and track lost & found items  
-- 🚀 **Currently working on [YatraSetu](https://github.com/your-yatrasetu-link)** – Travel planning and route management project  
+## 🤝 Connect With Me
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/sameer-khatri-7152b5268" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sameerkhatri728" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/sameerkhatridev1" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/hwdo9h6txe" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sameerdev512" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://instagram.com/sameerkhatri728" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/sameerkhatridev1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/hwdo9h6txe" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:sameerkhatridev512@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+---
+
+<p align="center"> 
+  <i>Visitor Count</i><br>
+  <img src="https://profile-counter.glitch.me/sameerdev512/count.svg" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerdev512&show_icons=true&locale=en&layout=compact" alt="sameerdev512" />
+<p align="center">
+  <img src="https://github.com/sameerdev512/sameerdev512/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerdev512&show_icons=true&locale=en" alt="sameerdev512" /></p>
+---
+
+⭐️ *From [sameerdev512](https://github.com/sameerdev512)*
