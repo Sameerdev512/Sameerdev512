@@ -16,7 +16,18 @@
 - 👯 I’m looking to collaborate on **[GoLocal](https://github.com/your-project-link)**  
 - 💬 Ask me about **ReactJs**  
 - 📫 How to reach me **[sameerkhatridev512@gmail.com](mailto:sameerkhatridev512@gmail.com)**  
-- 📄 Know about my experiences **[Resume]([https://drive.google.com/file/d/1lro1FovKSH5oZ26qg3OLO2-QojbHOVDd/view?usp=drive_link](https://drive.google.com/file/d/1Qb33A6Sv1mQjUoiVPOTqbpHvysVzfhEB/view?usp=drive_link))**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Qb33A6Sv1mQjUoiVPOTqbpHvysVzfhEB/view?usp=drive_link)**  
+- 📝 Read my blog posts **[Blog](https://your-blog-link.com)**
+
+---
+
+<h3 align="left">Projects:</h3>
+- 💻 **[Awesome Portfolio](https://github.com/sameerdev512/awesome-portfolio)** – My dummy portfolio website  
+- 📱 **[Fun App](https://github.com/sameerdev512/fun-app)** – Just a fun project to test React skills  
+- 🌐 **[GoLocal](https://github.com/your-project-link)** – Project I am currently working on  
+- 🔧 **[Dummy API](https://github.com/sameerdev512/dummy-api)** – API for testing purposes  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
