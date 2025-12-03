@@ -11,9 +11,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **[GoLocal](https://github.com/your-project-link)**  
+- 🔭 I’m currently working on **[YatraSetu](https://github.com/your-yatrasetu-link)**  
 - 🌱 I’m currently learning **Spring Boot, Data Structures & Algorithms, and Java**  
-- 👯 I’m looking to collaborate on **[GoLocal](https://github.com/your-project-link)**  
+- 👯 I’m looking to collaborate on **[GoLocal](https://github.com/your-golocal-link)**  
 - 💬 Ask me about **ReactJs**  
 - 📫 How to reach me **[sameerkhatridev512@gmail.com](mailto:sameerkhatridev512@gmail.com)**  
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Qb33A6Sv1mQjUoiVPOTqbpHvysVzfhEB/view?usp=drive_link)**  
@@ -22,26 +22,25 @@
 ---
 
 <h3 align="left">Projects:</h3>
-- 💻 **[Awesome Portfolio](https://github.com/sameerdev512/awesome-portfolio)** – My dummy portfolio website  
-- 📱 **[Fun App](https://github.com/sameerdev512/fun-app)** – Just a fun project to test React skills  
-- 🌐 **[GoLocal](https://github.com/your-project-link)** – Project I am currently working on  
-- 🔧 **[Dummy API](https://github.com/sameerdev512/dummy-api)** – API for testing purposes  
+- 💻 **[GoLocal](https://github.com/your-golocal-link)** – My full stack project for local services  
+- 🕵️ **[Lost and Found](https://github.com/your-lostandfound-link)** – App to report and track lost & found items  
+- 🚀 **Currently working on [YatraSetu](https://github.com/your-yatrasetu-link)** – Travel planning and route management project  
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sameer-khatri-7152b5268" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/sameerkhatri728" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/sameerkhatridev1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/hwdo9h6txe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://github.com/sameerdev512" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
